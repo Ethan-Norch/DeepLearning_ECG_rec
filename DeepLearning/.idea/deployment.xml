@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="group8@202.194.40.161:22" showEqualInSync="true" showNewOnSourceInSync="false" showNewOnTargetInSync="false">
+    <serverData>
+      <paths name="GPU server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/DeepLearning" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="group8@202.194.40.161:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/group8/DeepLearning" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

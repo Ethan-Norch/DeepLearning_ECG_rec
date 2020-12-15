@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DeepLearning.iml" filepath="$PROJECT_DIR$/.idea/DeepLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FaceRec/.idea/FaceRec.iml" filepath="$PROJECT_DIR$/../FaceRec/.idea/FaceRec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GaussianProgress/.idea/GaussianProgress.iml" filepath="$PROJECT_DIR$/../GaussianProgress/.idea/GaussianProgress.iml" />
+    </modules>
+  </component>
+</project>
